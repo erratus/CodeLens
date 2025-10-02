@@ -98,7 +98,7 @@ npm run dev
 Open http://localhost:5173
 
 Sample output
-!(./output/image.png)
+![MCP Screenshot](./output/image.png)
 
 
 ## API
