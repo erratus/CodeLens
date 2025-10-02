@@ -98,7 +98,7 @@ npm run dev
 Open http://localhost:5173
 
 Sample output
-![Chat App Screenshot](./output/image.png)
+!(./output/image.png)
 
 
 ## API
