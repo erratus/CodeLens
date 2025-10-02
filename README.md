@@ -23,8 +23,8 @@ code-reviewer-mcp/
 			main.jsx
 			index.css
 	.env                  # Backend env (OLLAMA_URL, OLLAMA_MODEL, HOST, PORT)
-	frontend/.
-        env         # Frontend env (VITE_API_URL)
+	frontend/
+        .env         # Frontend env (VITE_API_URL)
 	requirements.txt      # Backend Python deps
 ```
 
